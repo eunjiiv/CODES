@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+#form-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top: 100px;
+}
+
+label {
+    display: block;
+    margin-top: 20px;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: -10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #ff5733;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #9945f9;
+}
+
+#sign-up-form #sign-in-link,
+#sign-in-form #sign-up-link {
+    color: green;
+    text-decoration: underline;
+    display: inline-block;
+    margin-top: 10px;
+}
