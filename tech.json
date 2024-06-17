@@ -1,0 +1,72 @@
+[
+  {
+    "brand": "Samsung",
+    "category": "Cellphone",
+    "model": "Samsung Galaxy M35",
+    "release_date": "2024-05-24",
+    "dimensions": {
+      "weight": "222g",
+      "thickness": "9.1mm"
+    },
+    "operating_system": {
+      "android_version": "Android 14",
+      "ui_version": "One UI 6.1"
+    },
+    "storage": {
+      "internal": "128GB/256GB",
+      "expandable": "microSDXC"
+    },
+    "display": {
+      "size": "6.6\"",
+      "resolution": "1080x2340 pixels"
+    },
+    "camera": {
+      "main": "50MP",
+      "video": "2160p"
+    },
+    "memory": {
+      "ram": "6/8GB",
+      "chipset": "Exynos 1380"
+    },
+    "battery": {
+      "capacity": "6000mAh",
+      "charging_speed": "25W"
+    },
+    "comment": "This phone offers great value for its features."
+  },
+  {
+    "brand": "Samsung",
+    "category": "Cellphone",
+    "model": "Samsung Galaxy F55",
+    "release_date": "2024-05-27",
+    "dimensions": {
+      "weight": "180g",
+      "thickness": "7.8mm"
+    },
+    "operating_system": {
+      "android_version": "Android 14",
+      "ui_version": "One UI 6.1"
+    },
+    "storage": {
+      "internal": "128GB/256GB",
+      "expandable": "microSDXC"
+    },
+    "display": {
+      "size": "6.7\"",
+      "resolution": "1080x2400 pixels"
+    },
+    "camera": {
+      "main": "50MP",
+      "video": "2160p"
+    },
+    "memory": {
+      "ram": "8/12GB",
+      "chipset": "Snapdragon 7 Gen 1"
+    },
+    "battery": {
+      "capacity": "5000mAh",
+      "charging_speed": "45W"
+    },
+    "comment": "High-performance phone suitable for gaming and multimedia."
+  }
+]
